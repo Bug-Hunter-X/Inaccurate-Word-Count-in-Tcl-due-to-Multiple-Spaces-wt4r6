@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl when counting words in a string.  The `split` command, when used naively, can miscount words if there are multiple spaces between them. The bug.tcl file contains the erroneous code and bugSolution.tcl shows the corrected version.
